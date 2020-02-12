@@ -1,0 +1,20 @@
+{
+  "name": "huangdingbo/yii2-components",
+  "description": "组件模块",
+  "type": "library",
+  "license": "MIT",
+  "require": {
+    "php": ">=5.6.0"
+  },
+  "authors": [
+    {
+      "name": "huangdingbo",
+      "email": "378969398@qq.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "dsj\\components\\": "src"
+    }
+  }
+}
